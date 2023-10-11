@@ -1,10 +1,10 @@
-# Intel-Gen-AI-Hackathon 2023 - Hack2Skill
+# oneAPI-GenAI-Hackathon-2023 - Hack2Skill
 
-Welcome to the official repository for the Intel-Gen-AI-Hackathon 2023 organized by Hack2Skill!
+Welcome to the official repository for the oneAPI-GenAI-Hackathon-2023 organized by Hack2Skill!
 
 ## Getting Started
 
-To get started with the Intel-Gen-AI-Hackathon 2023 repository, follow these steps:
+To get started with the oneAPI-GenAI-Hackathon-2023 repository, follow these steps:
 
 ### Submission Instruction:
   1. Fork this repository
