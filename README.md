@@ -3,7 +3,7 @@
 #### Team Name - Error 404
 #### Problem Statement - Revolutionary AI-Infused Retail Platform
 Leverage the power of GenAI to transform the retail industry. Participants are challenged to create a cutting-edge retail website that integrates Intel® Developer Cloud and the Intel® AI Analytics Toolkit, delivering a personalised and intelligent shopping experience.
-#### Team Leader Email - sanikachavan1806@gmail.com
+#### Team Leader Email - sanikachavan@auradigital.in
 
 ### A Brief of the Prototype:
 Prototype Description:
